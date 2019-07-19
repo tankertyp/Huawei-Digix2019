@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-import ctrNet    # ctrNet-Tool神器
 import random
 import lightgbm as lgb
 from sklearn.model_selection import KFold
